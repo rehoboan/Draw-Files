@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-19T14:03:34.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Bc2d-LmfttMbxBJCSa8g" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-19T14:03:55.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="tKBhrr8ari-QDPZJM2p0" version="14.9.0" type="github">
   <diagram id="gbemhICK7RKWESc6Yvt0" name="Page-1">
     <mxGraphModel dx="1851" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="EtwFDLTVwgX0dgTHdsAJ-19" value="Tuple Manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="707" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EtwFDLTVwgX0dgTHdsAJ-34" value="&amp;nbsp;Map adress &lt;br&gt;Pages of table&lt;br&gt;Table schema&lt;br&gt;NVM page manager" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=20;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="EtwFDLTVwgX0dgTHdsAJ-34" value="&amp;nbsp;Map address &lt;br&gt;Pages of table&lt;br&gt;Table schema&lt;br&gt;NVM page manager" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=20;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="340" y="100" width="190" height="110" as="geometry" />
         </mxCell>
       </root>
